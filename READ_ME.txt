@@ -59,3 +59,5 @@ ZIP FILE CONTAINS:
 
 HOW TO RUN THE NOTEBOOKS:
 
+- In each of the notebooks change the directories "os.chdir( ....)" to local folder. 
+- Run the notebooks in the order given by the number in their titles. 
